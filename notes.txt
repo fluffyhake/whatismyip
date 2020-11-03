@@ -1,0 +1,10 @@
+Sources for info:
+https://code.tutsplus.com/articles/python-from-scratch-create-a-dynamic-website--net-22787
+
+info about deprecated mysql python package:
+https://stackoverflow.com/questions/14087598/python-3-importerror-no-module-named-configparser
+
+
+
+more:
+https://stackoverflow.com/questions/63342767/command-errored-out-with-exit-status-1-python-setup-py-egg-info-check-the-logs
